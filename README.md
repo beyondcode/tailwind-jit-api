@@ -12,6 +12,8 @@ Just include this script tag into your site:
 
 ## Support Us
 
+[<img src="https://usewindy.com/img/card-new.png">](https://usewindy.com)
+
 We spend a lot of time working on our [free developer services](https://beyondco.de/services) or open source packages. You can support our work by [buying one of our paid products](https://beyondco.de/software).
 
 ## Credits
