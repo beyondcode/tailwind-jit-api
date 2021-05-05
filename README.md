@@ -23,4 +23,4 @@ We spend a lot of time working on our [free developer services](https://beyondco
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
